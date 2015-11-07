@@ -18,11 +18,13 @@ div{
 }
 
 .inline{
+  background-color: lightsteelblue;
   display: inline;
   border: 2px solid black;
 }
 
 .inlineblock{
+  background-color: darkseagreen;
   display: inline-block;
 }
 
@@ -41,4 +43,12 @@ div{
 .centered {
   margin-left:25%;
   margin-right:25%;
+}
+
+.padded {
+  padding: 5px;
+}
+
+.margin {
+  margin: 5px;
 }
