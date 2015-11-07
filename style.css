@@ -1,0 +1,44 @@
+body {
+  background-color: cornflowerblue;
+}
+
+p{
+  background-color: wheat;
+  border: 2px solid black;
+}
+
+div{
+  background-color: goldenrod;
+  border: 2px solid black;
+}
+
+.pink{
+  background-color: lightpink;
+  border: 2px solid black;
+}
+
+.inline{
+  display: inline;
+  border: 2px solid black;
+}
+
+.inlineblock{
+  display: inline-block;
+}
+
+.twoemhigh {
+  height: 2em;
+}
+
+.half {
+  width: 50%;
+}
+
+#threehundredpxwidth{
+  width: 300px;
+}
+
+.centered {
+  margin-left:25%;
+  margin-right:25%;
+}
